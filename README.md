@@ -1,15 +1,15 @@
 # C++-Qt Project Environment
 
-**A simple template for starting a complex C++-Qt Project.**
+**A simple template for starting a C++-Qt Project.**
 
 ## Overview
 
-This template provides a basic structure for starting a complex C++-Qt. It includes essential directories and files to help you organize your code and easily get started with development using the **CMake** to generate a build system including the **Makefile/build.ninja**.
+This template provides a basic structure for starting a C++-Qt. It includes essential directories and files to help you organize your code and easily get started with development using the **CMake** to generate a build system including the **Makefile/build.ninja**.
 
 ## Project Structure
 
 ```plaintext
-.C++-Qt Project Environment
+.Cpp-Qt_Project_Environment
 ├── bin
 │   ├── build
 │   │   └── build
@@ -19,7 +19,7 @@ This template provides a basic structure for starting a complex C++-Qt. It inclu
 │   │   └── release
 │   └── test
 │       └── test
-├── C++-Qt Project Environment.code-workspace
+├── Cpp-Qt_Project_Environment.code-workspace
 ├── doc
 │   ├── pdf
 │   │   └── NONE.pdf
