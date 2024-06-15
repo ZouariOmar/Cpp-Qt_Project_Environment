@@ -11,4 +11,4 @@ fi
 COMMAND=$1
 
 #* clean & build & run the program
-cd bin/build && $COMMAND clean && $COMMAND && ./test
+cd bin/build && $COMMAND clean && $COMMAND && ./app

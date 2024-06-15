@@ -11,7 +11,7 @@
 #define MAINWINDOW_H
 
 //? ----------------------------- INCLUDE PROTOTYPE DECLARATION PART -----------------------------
-#include "./ui_mainWindow.h"
+#include "../res/ui_mainWindow.h"
 #include <QMainWindow>
 
 /*
